@@ -1,38 +1,38 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Atlas V2
 
-## Getting Started
+Welcome to the Atlas V2 repository. You can clone this repository and run it locally, and if you find any bugs don't hesitate to tell us. We are always trying to catch bugs and you also might get a bug hunter reward.
 
-First, run the development server:
+## Run it locally
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+### Windows
+Download GIT: https://git-scm.com/download/win
+Download Node: https://nodejs.org/en/download
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+**setup yarn**
+`npm install -g yarn`
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+**run it**
+`git clone https://github.com/atlas-developers/v2.git`
+`cd v2`
+`yarn install`
+`yarn dev`
+### MacOS
+Download GIT: https://git-scm.com/download/mac
+Download Node: https://nodejs.org/en/download
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+**setup yarn**
+`npm install -g yarn`
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+**run it**
+`git clone https://github.com/atlas-developers/v2.git`
+`cd v2`
+`yarn install`
+`yarn dev`
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## What is this anyways?
+### Introduction
+If you just randomly found this GitHub repository, then this must be confusing. This GitHub repository is for this website: https://betatesters.vercel.app/ — which is owned by Atlas, as you can tell. Atlas is a group of developers making a platform for other developers, companies, and individuals. We have also made our own products that you can get for free (some of them) and buy.
+### Communications
+If you want to get in touch with us, or just see our Discord server, you can join it here: https://dsc.gg/atlasx. Just, please do not troll anyone, you will **be banned**.
+## Contributions
+We're open to contributions, just open a PR, an issue, or tell us on our Discord! It's fine anywhere, except our DMs.
